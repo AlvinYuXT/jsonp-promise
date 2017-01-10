@@ -1,0 +1,24 @@
+{
+  "name": "jsonp-promise",
+  "version": "0.0.1",
+  "description": "A jsonp method return a Promise Object. It can be use in Vue.js",
+  "main": "jsonp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlvinYuXT/jsonp-promise.git"
+  },
+  "keywords": [
+    "jsonp",
+    "Vue",
+    "Promise"
+  ],
+  "author": "alvinYuXT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlvinYuXT/jsonp-promise/issues"
+  },
+  "homepage": "https://github.com/AlvinYuXT/jsonp-promise#readme"
+}
