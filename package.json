@@ -1,6 +1,6 @@
 {
   "name": "jsonp-vue",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A jsonp method return a Promise Object. It can be use in Vue.js",
   "main": "jsonp.js",
   "repository": {
